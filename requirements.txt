@@ -1,5 +1,0 @@
-python3.x
-XlsxWriter for python3
-poppler or poppler-utils containing pdftotext (depending on distro)
-OS: GNU/Linux
-
